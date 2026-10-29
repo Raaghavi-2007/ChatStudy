@@ -73,6 +73,20 @@ Client-server chat applications are versatile tools that facilitate real-time co
 
 Client-server chat applications are foundational to real-time communication over networks. They incorporate principles of socket programming, communication protocols, and security mechanisms to provide a seamless user experience. Understanding the basics of client-server chat applications is essential for developers involved in networked application development, as they form the backbone of various collaborative communication systems. As technology evolves, chat applications continue to adapt, incorporating new features and technologies to enhance user interaction and connectivity.
 
+## Algorithm:
+
+1. Import the socket module.
+2. Create a server socket using socket().
+3. Bind the server socket to the IP address and port number using bind().
+4. Make the server wait for client connections using listen().
+5. Accept the client connection using accept().
+6. Create a client socket and connect to the server using connect().
+7. Send messages from the client to the server using send().
+8. Receive and display the client's message on the server using recv().
+9. Allow the server to send a reply to the client.
+10. Repeat sending and receiving messages until either the client or server enters exit.
+11. Close the client and server sockets.
+
 
 ## Result:
 

@@ -153,8 +153,13 @@ client.close()
 ## Output:
 ### Server Output:
 
+<img width="1920" height="1080" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/30d5107a-a0c3-49b2-aee8-2627ce30f2ee" />
+
+### Client Output:
+
+<img width="1920" height="1080" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/6f5b9029-27d3-4381-a644-f9248c69cbd9" />
 
 ## Result:
 
-Thus the study on Client Server Chat Applications has been performed
+Thus the study on Client Server Chat Applications has been performed.
 
